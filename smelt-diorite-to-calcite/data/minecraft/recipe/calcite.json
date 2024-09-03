@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "category": "blocks",
+    "ingredient": {
+      "item": "minecraft:calcite"
+    },
+    "result": {
+      "id": "minecraft:diorite"
+    }
+  }
