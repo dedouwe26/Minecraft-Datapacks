@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:cobblestone"
+    },
+    "result": {
+        "id": "minecraft:cobbled_deepslate"
+    }
+}
