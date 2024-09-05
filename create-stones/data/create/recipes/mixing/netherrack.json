@@ -19,7 +19,7 @@
         },
         {
             "chance": 0.7,
-            "fluid": "minecraft:netherrack"
+            "item": "minecraft:netherrack"
         }
     ]
 }
