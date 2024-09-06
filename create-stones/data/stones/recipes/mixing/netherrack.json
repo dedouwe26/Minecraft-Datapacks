@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
+            "item": "minecraft:soul_sand"
+        },
+        {
+            "fluid": "minecraft:lava",
+            "amount": 121500
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
+            "chance": 0.7,
+            "item": "minecraft:netherrack"
+        }
+    ]
+}

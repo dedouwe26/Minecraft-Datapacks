@@ -1,0 +1,36 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
+            "item": "minecraft:end_stone"
+        },
+        {
+            "item": "minecraft:calcite"
+        },
+        {
+            "item": "minecraft:calcite"
+        },
+        {
+            "item": "minecraft:calcite"
+        },
+        {
+            "item": "minecraft:calcite"
+        },
+        {
+            "amount": 243000,
+            "fluid": "minecraft:water"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:end_stone"
+        },
+        {
+            "chance": 0.7,
+            "item": "minecraft:end_stone"
+        }
+    ]
+}

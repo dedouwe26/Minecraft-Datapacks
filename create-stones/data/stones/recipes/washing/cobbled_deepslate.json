@@ -1,0 +1,13 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+        {
+            "item": "minecraft:cobbled_deepslate"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:cobblestone"
+        }
+    ]
+}

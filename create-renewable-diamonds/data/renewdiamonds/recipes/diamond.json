@@ -1,0 +1,30 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+        {
+            "item": "minecraft:end_stone"
+        },
+        {
+            "item": "minecraft:end_stone"
+        },
+        {
+            "item": "minecraft:obsidian"
+        },
+        {
+            "item": "minecraft:obsidian"
+        },
+        {
+            "item": "minecraft:diamond"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "chance": 0.05,
+            "item": "minecraft:diamond"
+        }
+    ]
+}

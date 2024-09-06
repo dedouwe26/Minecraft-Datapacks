@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:stone"
+    },
+    "result": "minecraft:deepslate"
+}
