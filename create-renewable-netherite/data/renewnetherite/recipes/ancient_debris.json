@@ -9,6 +9,12 @@
             "item": "minecraft:gilded_blackstone"
         },
         {
+            "item": "minecraft:gilded_blackstone"
+        },
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
             "item": "minecraft:netherrack"
         },
         {
@@ -27,7 +33,7 @@
             "item": "minecraft:ancient_debris"
         },
         {
-            "amount": 405000,
+            "amount": 81000,
             "fluid": "minecraft:lava"
         }
     ],
