@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "fluid": "minecraft:water",
+            "amount": 72900
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:dirt"
+        }
+    ]
+}
