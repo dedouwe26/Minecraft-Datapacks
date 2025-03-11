@@ -11,7 +11,7 @@
         "item": "minecraft:red_sand"
       },
       {
-        "amount": 8100,
+        "amount": 100,
         "fluid": "minecraft:lava",
         "nbt": {}
       }
