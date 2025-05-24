@@ -5,10 +5,10 @@
             "item": "minecraft:soul_soil"
         }
     ],
-    "processingTime": 150,
+    "processing_time": 150,
     "results": [
         {
-            "item": "minecraft:soul_sand"
+            "id": "minecraft:soul_sand"
         }
     ]
 }

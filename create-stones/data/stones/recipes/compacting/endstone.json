@@ -26,11 +26,11 @@
     ],
     "results": [
         {
-            "item": "minecraft:end_stone"
+            "id": "minecraft:end_stone"
         },
         {
             "chance": 0.7,
-            "item": "minecraft:end_stone"
+            "id": "minecraft:end_stone"
         }
     ]
 }
