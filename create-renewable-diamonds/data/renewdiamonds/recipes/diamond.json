@@ -20,11 +20,11 @@
     ],
     "results": [
         {
-            "item": "minecraft:diamond"
+            "id": "minecraft:diamond"
         },
         {
             "chance": 0.05,
-            "item": "minecraft:diamond"
+            "id": "minecraft:diamond"
         }
     ]
 }

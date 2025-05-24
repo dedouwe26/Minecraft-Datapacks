@@ -1,0 +1,28 @@
+{
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:not",
+            "value": {
+                "condition": "fabric:all_mods_loaded",
+                "values": [
+                    "create_enchantment_industry"
+                ]
+            }
+        }
+    ],
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "minecraft:golden_apple"
+        },
+        {
+            "amount": 81000,
+            "fluid": "create_enchantment_industry:experience"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:enchanted_golden_apple"
+        }
+    ]
+}

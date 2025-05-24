@@ -5,15 +5,15 @@
             "item": "minecraft:cobbled_deepslate"
         }
     ],
-    "processingTime": 300,
+    "processing_time": 300,
     "results": [
         {
             "chance": 0.10,
-            "item": "create:crushed_raw_zinc"
+            "id": "create:crushed_raw_zinc"
         },
         {
             "chance": 0.90,
-            "item": "minecraft:gravel"
+            "id": "minecraft:gravel"
         }
     ]
 }

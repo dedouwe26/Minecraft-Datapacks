@@ -9,12 +9,6 @@
             "item": "minecraft:gilded_blackstone"
         },
         {
-            "item": "minecraft:gilded_blackstone"
-        },
-        {
-            "item": "minecraft:netherrack"
-        },
-        {
             "item": "minecraft:netherrack"
         },
         {
@@ -39,14 +33,14 @@
     ],
     "results": [
         {
-            "item": "minecraft:ancient_debris"
+            "id": "minecraft:ancient_debris"
         },
         {
-            "item": "minecraft:ancient_debris"
+            "id": "minecraft:ancient_debris"
         },
         {
             "chance": 0.05,
-            "item": "minecraft:ancient_debris"
+            "id": "minecraft:ancient_debris"
         }
     ]
 }

@@ -5,10 +5,10 @@
             "item": "minecraft:deepslate"
         }
     ],
-    "processingTime": 300,
+    "processing_time": 300,
     "results": [
         {
-            "item": "minecraft:cobbled_deepslate"
+            "id": "minecraft:cobbled_deepslate"
         }
     ]
 }

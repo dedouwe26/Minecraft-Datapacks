@@ -5,15 +5,15 @@
             "item": "minecraft:granite"
         }
     ],
-    "processingTime": 250,
+    "processing_time": 250,
     "results": [
         {
             "chance": 0.10,
-            "item": "create:crushed_raw_copper"
+            "id": "create:crushed_raw_copper"
         },
         {
             "chance": 0.90,
-            "item": "minecraft:gravel"
+            "id": "minecraft:gravel"
         }
     ]
 }
