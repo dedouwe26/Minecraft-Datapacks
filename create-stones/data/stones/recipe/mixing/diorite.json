@@ -6,9 +6,9 @@
             "tag": "c:cobblestone"
         },
         {
-            "type": "fluid_stack",
+            "type": "fluid_tag",
             "amount": 800,
-            "fluid": "minecraft:water"
+            "fluid": "c:milk"
         }
     ],
     "results": [
