@@ -1,6 +1,6 @@
 {
     "type": "create:mixing",
-    "heatRequirement": "superheated",
+    "heat_requirement": "superheated",
     "ingredients": [
         {
             "item": "minecraft:gilded_blackstone"
@@ -27,6 +27,7 @@
             "item": "minecraft:ancient_debris"
         },
         {
+            "type": "fluid_stack",
             "amount": 1000,
             "fluid": "minecraft:lava"
         }

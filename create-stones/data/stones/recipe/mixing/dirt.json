@@ -8,8 +8,9 @@
             "item": "minecraft:gravel"
         },
         {
-            "fluid": "minecraft:water",
-            "amount": 900
+            "type": "fluid_stack",
+            "amount": 900,
+            "fluid": "minecraft:water"
         }
     ],
     "results": [

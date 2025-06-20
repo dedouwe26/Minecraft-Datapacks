@@ -1,13 +1,14 @@
 {
     "type": "create:mixing",
-    "heatRequirement": "heated",
+    "heat_requirement": "heated",
     "ingredients": [
         {
             "tag": "c:cobblestone"
         },
         {
+            "type": "fluid_stack",
             "amount": 800,
-            "fluidTag": "c:milk"
+            "fluid": "minecraft:water"
         }
     ],
     "results": [
