@@ -3,7 +3,7 @@
     "heat_requirement": "superheated",
     "ingredients": [
       {
-        "tag": "c:cobblestone"
+        "tag": "c:cobblestones"
       }
     ],
     "results": [
