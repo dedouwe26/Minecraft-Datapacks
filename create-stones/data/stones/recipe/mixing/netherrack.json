@@ -1,18 +1,18 @@
 {
     "type": "create:mixing",
-    "heatRequirement": "heated",
+    "heat_requirement": "heated",
     "ingredients": [
       {
-        "tag": "c:cobblestone"
+        "tag": "c:cobblestones"
       },
       {
         "item": "create:cinder_flour"
       },
       {
-        "amount": 250,
+        "type": "fluid_stack",
+        "amount": 1000,
         "fluid": "minecraft:lava"
       }
-
     ],
     "results": [
       {
